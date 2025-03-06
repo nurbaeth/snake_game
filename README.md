@@ -13,7 +13,7 @@ A simple console-based Snake game written in Python using the `curses` library.
 - `curses` module (included in standard library for Linux/macOS, installable for Windows) 
   
 ## 🚀 Installation & Run 
-```sh  
+```sh   
 # Clone the repository   
 git clone https://github.com/yourusername/snake-game.git  
 cd snake-game
