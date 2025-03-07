@@ -19,7 +19,7 @@ git clone https://github.com/yourusername/snake-game.git
 cd snake-game
     
 # Run the game 
-python snake.py
+python snake.py 
 ```
  
 ## 🏆 Features
