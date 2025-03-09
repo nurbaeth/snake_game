@@ -21,7 +21,7 @@ cd snake-game
 # Run the game 
 python snake.py 
 ```
- 
+  
 ## 🏆 Features
 - Smooth snake movement
 - Increasing difficulty
