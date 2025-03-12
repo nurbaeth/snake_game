@@ -18,7 +18,7 @@ A simple console-based Snake game written in Python using the `curses` library.
 git clone https://github.com/yourusername/snake-game.git  
 cd snake-game
     
-# Run the game 
+# Run the game  
 python snake.py 
 ``` 
   
