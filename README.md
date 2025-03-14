@@ -9,7 +9,7 @@ A simple console-based Snake game written in Python using the `curses` library.
 - The game gets faster as you score higher!
 
 ## 🛠️ Requirements
-- Python 3.x
+- Python 3.x 
 - `curses` module (included in standard library for Linux/macOS, installable for Windows) 
   
 ## 🚀 Installation & Run 
